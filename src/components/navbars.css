@@ -3,9 +3,24 @@
   font-size: 18px;
   background: #041C32;
   font-family: "Roboto";
-  fontWeight: 600;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .center {
-  text-align: center;
+  justify-content: center;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  transition: 0.3s;
+  opacity: 0.7;
+}
+
+.logo:hover {
+  cursor: pointer;
+  opacity: 1;
 }

@@ -13,7 +13,7 @@ function App() {
         
         I started my career as a fullstack developer at 2016 and since then worked in several long-term projects, which included websites and hybrid mobile apps.
 
-        I specialize in Javascript, Typescript and Angular but I expand my skillset with different technologies daily. This blog is build in React as an exercise to learn something new. I believe that although theory is important, you only can trule understand things after building them. And dissasembling.
+        I specialize in Javascript, Typescript and Angular but I expand my skillset with different technologies daily. This blog is built in React as an exercise to learn something new. I believe that although theory is important, you only can truly understand things after building them. And dissasembling.
 
         In my free time I educate myself online, work on side projects, play football and videogames, read books and listen to a lot of cool music and take care of belgian griffon and balinese kitten. Soon I am going to marry my beautiful fiancée.
       `

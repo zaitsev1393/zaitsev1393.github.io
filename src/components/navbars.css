@@ -1,0 +1,11 @@
+.content {
+  padding: 15px;
+  font-size: 18px;
+  background: #041C32;
+  font-family: "Roboto";
+  fontWeight: 600;
+}
+
+.center {
+  text-align: center;
+}
